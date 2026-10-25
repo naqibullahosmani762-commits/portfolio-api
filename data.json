@@ -1,0 +1,86 @@
+{
+  "profile": {
+    "email": "naqibullahosmani762@gmail.com",
+    "github": "https://github.com/",
+    "linkedin": "https://linkedin.com/",
+    "en": {
+      "name": "Naqibullah Osmani",
+      "title": "Front-End web developer",
+      "intro": "I design and build fast, accessible websites and web apps for small teams and growing products.",
+      "about": "I'm a frontend developer who turns designs into fast, accessible and easy-to-use websites. I care about the details people notice without realizing it: smooth layouts on every screen size, clear typography and interfaces that feel natural to use.\n\nI work mainly with HTML, CSS, JavaScript and React, and I enjoy solving the small problems that make a big difference to how a website feels. When I'm not coding, I'm learning new tools and looking for ways to make my work cleaner and better.",
+      "skills": [
+        "JavaScript",
+        "React",
+        "CSS",
+        "Git",
+        "Testing"
+      ]
+    },
+    "fa": {
+      "name": "نقیب الله عثمانی ",
+      "title": "توسعه‌دهنده وب فرانت اند",
+      "intro": "من وب‌سایت‌ها و برنامه‌های وب سریع و قابل‌دسترس را برای تیم‌های کوچک و محصولات در حال رشد طراحی و توسعه می‌دهم.",
+      "about": "من توسعه‌دهنده فرانت‌اند هستم و طرح‌ها را به وب‌سایت‌هایی سریع، قابل‌دسترس و ساده برای استفاده تبدیل می‌کنم. به جزئیاتی اهمیت می‌دهم که کاربر شاید متوجه‌شان نشود ولی حسشان می‌کند: چیدمان روان در همهٔ اندازه‌های صفحه، تایپوگرافی خوانا و رابط‌هایی که استفاده‌شان طبیعی است.\n\nبیشتر با HTML، CSS، جاوااسکریپت و ریکت کار می‌کنم و از حل مشکلات کوچکی که حس یک وب‌سایت را کاملاً عوض می‌کنند لذت می‌برم. در زمان‌های دیگر، ابزارهای جدید یاد می‌گیرم و دنبال راه‌هایی هستم تا کارم را تمیزتر و بهتر کنم.",
+      "skills": [
+        "جاوااسکریپت",
+        "ریکت",
+        "CSS",
+        "گیت",
+        "تست‌نویسی"
+      ]
+    }
+  },
+  "projects": [
+    {
+      "id": 1,
+      "link": "https://example.com",
+      "tags": [
+        "React",
+        "Node.js",
+        "SQLite"
+      ],
+      "en": {
+        "title": "Bookshelf",
+        "description": "A reading tracker that lets people log books, set yearly goals and share lists with friends."
+      },
+      "fa": {
+        "title": "قفسه کتاب",
+        "description": "برنامه‌ای برای ثبت کتاب‌های خوانده‌شده که هدف سالانه تعیین می‌کند و لیست‌ها را با دوستان به اشتراک می‌گذارد."
+      }
+    },
+    {
+      "id": 2,
+      "link": "https://example.com",
+      "tags": [
+        "TypeScript",
+        "IndexedDB"
+      ],
+      "en": {
+        "title": "Fieldnotes",
+        "description": "A note-taking app for researchers with offline support and fast full-text search."
+      },
+      "fa": {
+        "title": "یادداشت‌های میدانی",
+        "description": "برنامه یادداشت‌برداری برای پژوهشگران با پشتیبانی آفلاین و جست‌وجوی سریع در متن."
+      }
+    },
+    {
+      "id": 3,
+      "link": "https://example.com",
+      "tags": [
+        "HTML",
+        "CSS",
+        "Express"
+      ],
+      "en": {
+        "title": "Harbor Cafe",
+        "description": "A website and online ordering system for a neighbourhood cafe, built in two weeks."
+      },
+      "fa": {
+        "title": "کافه هاربر",
+        "description": "وب‌سایت و سیستم سفارش آنلاین برای یک کافهٔ محلی که در دو هفته ساخته شد."
+      }
+    }
+  ],
+  "messages": []
+}
